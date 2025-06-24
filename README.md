@@ -1,19 +1,18 @@
-# Java Basics – Core Concepts Practice
+# Java Basics Practice
 
-This folder contains my Java practice code from a Udemy course, focusing on core programming concepts that are essential for QA automation and Selenium scripting.
+This folder contains Java exercises as part of my learning journey in QA automation using Java and Selenium.
 
-## 🧠 Topics Covered
+## Files
 
-- **Arrays**
-  - Declaring and initializing arrays
-  - Iterating through elements using `for` and `foreach`
-  - Simple array-based logic
+- `project2.java`: Working with arrays and loops
+- `project3.java`: String handling, split, compare, and methods
+- `project4.java`: Using methods with return types and object interaction
+- `project5.java`: Support class for method calling in project4
 
-- **ArrayList**
-  - Creating and adding elements
-  - Using `.get()`, `.remove()`, and `.size()`
-  - Looping through elements
-  - Difference between fixed-size arrays and dynamic ArrayLists
+## 👩‍💻 Notes
+
+- All code is part of my learning during the Udemy course.
+- Each file focuses on specific Java fundamentals.
 
 ## 👩‍💻 Why It Matters
 
