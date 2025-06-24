@@ -4,10 +4,10 @@ This folder contains Java exercises as part of my learning journey in QA automat
 
 ## Files
 
-- `project2.java`: Working with arrays and loops
-- `project3.java`: String handling, split, compare, and methods
-- `project4.java`: Using methods with return types and object interaction
-- `project5.java`: Support class for method calling in project4
+- `project1.java`: Working with arrays and loops
+- `project2.java`: String handling, split, compare, and methods
+- `project3.java`: Using methods with return types and object interaction
+- `project4.java`: Support class for method calling in project4
 
 ## 👩‍💻 Notes
 
