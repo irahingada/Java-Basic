@@ -1,6 +1,6 @@
 package irapractice;
 
-public class project5 {
+public class Project4 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
